@@ -4,7 +4,7 @@
    "Precaution_1": "stop irritation",
    "Precaution_2": "consult nearest hospital",
    "Precaution_3": "stop taking drug",
-   "Precaution_4": "follow up",
+   "Precaution_4": "follow up with specialist",
    "Description": "An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs."
  },
  {
@@ -19,14 +19,14 @@
    "Disease": "Allergy",
    "Precaution_1": "apply calamine",
    "Precaution_2": "cover area with bandage",
-   "Precaution_3": "",
+   "Precaution_3": "stop irritation",
    "Precaution_4": "use ice to compress itching",
    "Description": "An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens."
  },
  {
    "Disease": "Hypothyroidism",
    "Precaution_1": "reduce stress",
-   "Precaution_2": "exercise",
+   "Precaution_2": "exercise daily",
    "Precaution_3": "eat healthy",
    "Precaution_4": "get proper sleep",
    "Description": "Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone."
@@ -44,7 +44,7 @@
    "Precaution_1": "avoid fatty spicy food",
    "Precaution_2": "avoid lying down after eating",
    "Precaution_3": "maintain healthy weight",
-   "Precaution_4": "exercise",
+   "Precaution_4": "exercise daily",
    "Description": "Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD."
  },
  {
@@ -60,14 +60,14 @@
    "Precaution_1": "Consult nearest hospital",
    "Precaution_2": "wash hands through",
    "Precaution_3": "avoid fatty spicy food",
-   "Precaution_4": "medication",
+   "Precaution_4": "get medication",
    "Description": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function."
  },
  {
    "Disease": "Osteoarthristis",
    "Precaution_1": "acetaminophen",
    "Precaution_2": "consult nearest hospital",
-   "Precaution_3": "follow up",
+   "Precaution_3": "follow up with specialist",
    "Precaution_4": "salt baths",
    "Description": "Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time."
  },
@@ -96,11 +96,11 @@
    "Description": "Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents."
  },
  {
-   "Disease": "Diabetes ",
+   "Disease": "Diabetes",
    "Precaution_1": "have balanced diet",
-   "Precaution_2": "exercise",
+   "Precaution_2": "exercise daily",
    "Precaution_3": "consult doctor",
-   "Precaution_4": "follow up",
+   "Precaution_4": "follow up with specialist",
    "Description": "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy."
  },
  {
@@ -112,7 +112,7 @@
    "Description": "Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts."
  },
  {
-   "Disease": "Hypertension ",
+   "Disease": "Hypertension",
    "Precaution_1": "meditation",
    "Precaution_2": "salt baths",
    "Precaution_3": "reduce stress",
@@ -154,7 +154,7 @@
  {
    "Disease": "Cervical spondylosis",
    "Precaution_1": "use heating pad or cold pack",
-   "Precaution_2": "exercise",
+   "Precaution_2": "exercise daily",
    "Precaution_3": "take otc pain reliver",
    "Precaution_4": "consult doctor",
    "Description": "Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs)."
@@ -162,7 +162,7 @@
  {
    "Disease": "Hyperthyroidism",
    "Precaution_1": "eat healthy",
-   "Precaution_2": "massage",
+   "Precaution_2": "get massage",
    "Precaution_3": "use lemon balm",
    "Precaution_4": "take radioactive iodine treatment",
    "Description": "Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat."
@@ -188,31 +188,31 @@
    "Precaution_1": "avoid open cuts",
    "Precaution_2": "wear ppe if possible",
    "Precaution_3": "consult doctor",
-   "Precaution_4": "follow up",
+   "Precaution_4": "follow up with specialist",
    "Description": "Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease."
  },
  {
    "Disease": "Paralysis (brain hemorrhage)",
-   "Precaution_1": "massage",
+   "Precaution_1": "get massage",
    "Precaution_2": "eat healthy",
-   "Precaution_3": "exercise",
+   "Precaution_3": "exercise daily",
    "Precaution_4": "consult doctor",
    "Description": "Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body."
  },
  {
    "Disease": "Typhoid",
    "Precaution_1": "eat high calorie vegitables",
-   "Precaution_2": "antiboitic therapy",
+   "Precaution_2": "get antiboitic therapy",
    "Precaution_3": "consult doctor",
-   "Precaution_4": "medication",
+   "Precaution_4": "get medication",
    "Description": "An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe."
  },
  {
    "Disease": "Hepatitis B",
    "Precaution_1": "consult nearest hospital",
-   "Precaution_2": "vaccination",
+   "Precaution_2": "get vaccination",
    "Precaution_3": "eat healthy",
-   "Precaution_4": "medication",
+   "Precaution_4": "get medication",
    "Description": "Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus."
  },
  {
@@ -226,14 +226,14 @@
  {
    "Disease": "Hepatitis C",
    "Precaution_1": "Consult nearest hospital",
-   "Precaution_2": "vaccination",
+   "Precaution_2": "get vaccination",
    "Precaution_3": "eat healthy",
-   "Precaution_4": "medication",
+   "Precaution_4": "get medication",
    "Description": "Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer."
  },
  {
    "Disease": "Migraine",
-   "Precaution_1": "meditation",
+   "Precaution_1": "get meditation",
    "Precaution_2": "reduce stress",
    "Precaution_3": "use poloroid glasses in sun",
    "Precaution_4": "consult doctor",
@@ -251,8 +251,8 @@
    "Disease": "Alcoholic hepatitis",
    "Precaution_1": "stop alcohol consumption",
    "Precaution_2": "consult doctor",
-   "Precaution_3": "medication",
-   "Precaution_4": "follow up",
+   "Precaution_3": "get medication",
+   "Precaution_4": "follow up with specialist",
    "Description": "Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol"
  },
  {
@@ -260,15 +260,15 @@
    "Precaution_1": "drink plenty of water",
    "Precaution_2": "consume milk thistle",
    "Precaution_3": "eat fruits and high fiberous food",
-   "Precaution_4": "medication",
+   "Precaution_4": "get medication",
    "Description": "Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the \"morbus regius\" (the regal disease) in the belief that only the touch of a king could cure it"
  },
  {
    "Disease": "Hepatitis E",
    "Precaution_1": "stop alcohol consumption",
-   "Precaution_2": "rest",
+   "Precaution_2": "get some rest",
    "Precaution_3": "consult doctor",
-   "Precaution_4": "medication",
+   "Precaution_4": "get medication",
    "Description": "A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease."
  },
  {
@@ -282,40 +282,40 @@
  {
    "Disease": "Hepatitis D",
    "Precaution_1": "consult doctor",
-   "Precaution_2": "medication",
+   "Precaution_2": "get medication",
    "Precaution_3": "eat healthy",
-   "Precaution_4": "follow up",
+   "Precaution_4": "follow up with specialist",
    "Description": "Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV)."
  },
  {
    "Disease": "Heart attack",
-   "Precaution_1": "call ambulance",
+   "Precaution_1": "Choose a diet for a healthy heart",
    "Precaution_2": "chew or swallow asprin",
    "Precaution_3": "keep calm",
-   "Precaution_4": "",
+   "Precaution_4": "get proper sleep",
    "Description": "The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle."
  },
  {
    "Disease": "Pneumonia",
    "Precaution_1": "consult doctor",
-   "Precaution_2": "medication",
-   "Precaution_3": "rest",
-   "Precaution_4": "follow up",
+   "Precaution_2": "get medication",
+   "Precaution_3": "get rest",
+   "Precaution_4": "follow up with specialist",
    "Description": "Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe."
  },
  {
    "Disease": "Arthritis",
-   "Precaution_1": "exercise",
+   "Precaution_1": "exercise daily",
    "Precaution_2": "use hot and cold therapy",
    "Precaution_3": "try acupuncture",
-   "Precaution_4": "massage",
+   "Precaution_4": "get massage",
    "Description": "Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis."
  },
  {
    "Disease": "Gastroenteritis",
    "Precaution_1": "stop eating solid food for while",
    "Precaution_2": "try taking small sips of water",
-   "Precaution_3": "rest",
+   "Precaution_3": "get rest",
    "Precaution_4": "ease back into eating",
    "Description": "Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting ."
  },
@@ -323,8 +323,8 @@
    "Disease": "Tuberculosis",
    "Precaution_1": "cover mouth",
    "Precaution_2": "consult doctor",
-   "Precaution_3": "medication",
-   "Precaution_4": "rest",
+   "Precaution_3": "get medication",
+   "Precaution_4": "get rest",
    "Description": "Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis."
  }
 ]
