@@ -127,7 +127,7 @@ from sklearn.linear_model import LogisticRegression
 
 rfc = RandomForestClassifier()
 dtc = DecisionTreeClassifier()
-lr = LogisticRegression(max_iter=1000)
+lr = LogisticRegression(max_iter=3000)
 
 rfc.fit(X_train,y_train)
 dtc.fit(X_train,y_train)
@@ -137,7 +137,7 @@ print(rfc.score(X_test,y_test))
 print(dtc.score(X_test,y_test))
 print(lr.score(X_test,y_test))
 
-y_pred = lr.predict(X_test)
+y_pred = rfc.predict(X_test)
 print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),1)),1))
 
 from sklearn.metrics import confusion_matrix, accuracy_score
@@ -152,7 +152,7 @@ from sklearn.metrics import classification_report,confusion_matrix
 
 print(classification_report(y_test,y_pred))
 
-'''
+
 filename = 'model.pkl'
 pickle.dump(rfc, open(filename, 'wb'))
  
@@ -160,6 +160,6 @@ pickle.dump(rfc, open(filename, 'wb'))
 loaded_model = pickle.load(open(filename, 'rb'))
 result = loaded_model.score(X_test, y_test)
 result
-'''
+
 
 
